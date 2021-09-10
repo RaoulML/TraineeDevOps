@@ -17,5 +17,7 @@ _Leer voor **ISTQB** zoals Rudi altijd zegt_
   * delen van code
 
 
+*Spannend*
+
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
